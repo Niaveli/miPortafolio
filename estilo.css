@@ -29,7 +29,7 @@ html{
 .contenedor-header header .logo a{
     font-family: 'Righteous';
     font-size: 36px;
-    color: #c577ab;
+    color: #ff00aa;
     text-decoration: none;
 }
 .contenedor-header header ul{
@@ -128,7 +128,7 @@ html{
     margin-bottom: 20px;
 }
 .sobremi .contenido-seccion p span{
-    color: #e60f85;
+    color: #ff00aa;
     font-weight: bold;
 }
 .sobremi .fila{
@@ -210,8 +210,8 @@ html{
 }
 /* SECCION S K I L L S */
 .skills{
-    background-color: #252A2E;
-    color: #fff;
+    background-color: #f0b8bd;
+    color: rgb(0, 0, 0);
     padding: 50px 20px;
 }
 .skills .contenido-seccion{
@@ -245,12 +245,12 @@ html{
 .skills .skill .barra-skill{
     height: 8px;
     width: 80%;
-    background-color: #131517;
+    background-color: #e78ab1;
     position: relative;
     margin-bottom: 30px;
 }
 .skills .skill .progreso{
-    background-color: #e02271;
+    background-color: #ff00aa;
     position: absolute;
     top: 0;
     left: 0;
@@ -260,7 +260,7 @@ html{
     position: absolute;
     height: 40px;
     width: 40px;
-    background-color: #c53679;
+    background-color: #ff00aa;
     border-radius: 50px;
     line-height: 40px;
     text-align: center;
@@ -360,8 +360,8 @@ html{
 }
 /* SECCION CURRICULUM */
 .curriculum{
-    background-color: #1e2326;
-    color: #fff;
+    background-color: #b99cb5;
+    color: rgb(0, 0, 0);
     padding: 50px 20px;
 }
 .curriculum .contenido-seccion{
