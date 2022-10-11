@@ -45,7 +45,7 @@ html{
     text-decoration: none;
 }
 .contenedor-header header nav ul li a:hover{
-    color: #1CB698;
+    color:  #ff00aa;
 }
 .nav-responsive{
     background-color: #1CB698;
@@ -104,7 +104,7 @@ html{
     transition: .3s;
 }
 .inicio .contenido-banner .redes a:hover{
-    background-color: #1CB698;
+    background-color:  #ff00aa;
 }
 .sobremi{
     background-color: #b99cb5;
@@ -176,7 +176,7 @@ html{
     justify-content: center;
     transition: .3s;
 }.sobremi .fila .col .contenedor-intereses .interes:hover{
-    background-color: #1CB698;
+    background-color: #da6d7b;
 }
 .sobremi .fila .col .contenedor-intereses .interes i{
     font-size: 30px;
@@ -397,7 +397,7 @@ html{
 .curriculum .fila .item{
     padding: 25px;
     margin-bottom: 30px;
-    background-color: #252A2E;
+    background-color: #dbbed0;
     position: relative;
 }
 .curriculum .fila .item h4{
@@ -405,14 +405,14 @@ html{
     margin-bottom: 10px;
 }
 .curriculum .fila .item .casa{
-    color: #1CB698;
+    color: #000000;
     font-size: 22px;
     font-weight: bold;
     display: block;
 }
 .curriculum .fila .item .fecha{
     display: block;
-    color: #1CB698;
+    color: #000000;
     margin-bottom: 10px;
 }
 .curriculum .fila .item p{
@@ -466,8 +466,8 @@ html{
 }
 /* SECCION PORTFOLIO */
 .portfolio{
-    background-color: #252A2E;
-    color: #fff;
+    background-color:   #eed0c2;
+    color: rgb(0, 0, 0);
     padding: 50px 20px;
 }
 .portfolio .contenido-seccion{
@@ -502,7 +502,7 @@ html{
     width: 100%;
     height: 100%;
     text-align: center;
-    background: linear-gradient(rgba(28,182,152,.8), rgba(28,182,152,.8));
+    background: linear-gradient(rgba(182, 28, 92, 0.8), rgba(224, 46, 114, 0.8));
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -524,8 +524,8 @@ html{
 /* SECCION CONTACTO */
 .contacto{
     background-image: url(img/contact_bg.png);
-    background-color: #1e2326;
-    color: #fff;
+    background-color: #b99cb5;
+    color: rgb(0, 0, 0);
     padding: 50px 0;
 }
 .contacto .contenido-seccion{
@@ -552,20 +552,20 @@ html{
     padding: 18px;
     border: none;
     margin-bottom: 20px;
-    background-color: #252A2E;
-    color: #fff;
+    background-color: #e0d4e2;
+    color: rgb(0, 0, 0);
     font-size: 18px;
 }
 .contacto button{
     cursor: pointer;
     background-color: transparent;
-    border: 2px solid #fff;
+    border: 2px solid  rgb(221, 96, 165);
     width: fit-content;
     display: block;
     margin: 20px auto;
     padding: 10px 22px;
     font-size: 16px;
-    color: #fff;
+    color: rgb(0, 0, 0);
     position: relative;
     z-index: 10;
 }
@@ -575,7 +575,7 @@ html{
     left: 0;
     width: 0;
     height: 100%;
-    background-color: #1CB698;
+    background-color:  #d38fc8;
     z-index: -1;
     transition: 1s;
 }
@@ -588,7 +588,7 @@ html{
 .contacto .col .info{
     position: absolute;
     top: 40%;
-    background-color: #252A2E;
+    background-color: #f1bbc4;
     padding: 20px;
     max-swidth: 350px;
     left: 50%;
@@ -601,7 +601,7 @@ html{
     margin-bottom: 20px;
 }
 .contacto .col .info ul li i{
-    color: #1CB698;
+    color: #b61c31;
     display: inline-block;
     margin-right: 20px;
 }
@@ -633,7 +633,7 @@ footer .arriba{
     display: block;
     width: 50px;
     height: 50px;
-    background-color: #1CB698;
+    background-color:  #ff00aa;
     color: #fff;
     position: absolute;
     left: 50%;
