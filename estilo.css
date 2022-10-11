@@ -107,8 +107,8 @@ html{
     background-color: #1CB698;
 }
 .sobremi{
-    background-color: #261e25;
-    color: #fff;
+    background-color: #b99cb5;
+    color: rgb(0, 0, 0);
     padding: 50px 20px;
 }
 .sobremi .contenido-seccion{
@@ -128,7 +128,7 @@ html{
     margin-bottom: 20px;
 }
 .sobremi .contenido-seccion p span{
-    color: #1CB698;
+    color: #e60f85;
     font-weight: bold;
 }
 .sobremi .fila{
@@ -151,11 +151,11 @@ html{
 }
 .sobremi .fila .col ul li strong{
     display: inline-block;
-    color: #1CB698;
+    color: #f80caa;
     width: 130px;
 }
 .sobremi .fila .col ul li span{
-    background-color: #1CB698;
+    background-color: #d660d0;
     padding: 3px;
     font-weight: bold;
     border-radius: 5px;
@@ -167,7 +167,7 @@ html{
 .sobremi .fila .col .contenedor-intereses .interes{
     width: 100px;
     height: 100px;
-    background-color: #252A2E;
+    background-color: #b81edf;
     border-radius: 10px;
     margin: 0 15px 15px 0;
     display: flex;
@@ -185,13 +185,13 @@ html{
 .sobremi button{
     cursor: pointer;
     background-color: transparent;
-    border: 2px solid #fff;
+    border: 2px solid rgb(221, 96, 165);
     width: fit-content;
     display: block;
     margin: 20px auto;
     padding: 10px 22px;
     font-size: 16px;
-    color: #fff;
+    color: rgb(0, 0, 0);
     position: relative;
     z-index: 10;
 }
@@ -201,7 +201,7 @@ html{
     left: 0;
     width: 0;
     height: 100%;
-    background-color: #1CB698;
+    background-color: #d38fc8;
     z-index: -1;
     transition: 1s;
 }
